@@ -29,9 +29,9 @@ You will need a modern C++ compiler, such as `g++` or `clang++` to run the sourc
 
 2. Compile an example:
     ```bash
-    cd examples
-    g++ -std=c++17 example1.cpp -o example1
-    ./example1
+    cd section-#/
+    g++ -std=c++17 sourcecode1.cpp -o sourcecode1
+    ./sourcecode1
     ```
 
 ## Topics Covered
